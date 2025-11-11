@@ -34,28 +34,28 @@ This project aims to visualise election data through an interactive Power BI das
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 - Clear regional patterns of political stability and volatility
 - Identification of states with increasing competitiveness
 - Insights into how turnout correlates with margin of victory
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - **Power BI**
 - **DAX**
 - **Excel** (for initial data cleaning)
 
 ---
 
-## 🖼️ Dashboard Preview
+## Dashboard Preview
 ![Election Dashboard Preview](assets/dashboard-preview.png)
 
 *(Click the image to enlarge — or download the .pbix file from the `/reports/` folder.)*
 
 ---
 
-## 🔗 Live Dashboard or File Access
+## File Access
 - [Download .pbix file](reports/dashboard.pbix)
 
 ---
