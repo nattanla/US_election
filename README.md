@@ -42,9 +42,9 @@ This project aims to visualise election data through an interactive Power BI das
 ---
 
 ## Tools & Technologies
-- **Power BI**
-- **DAX**
-- **Excel** (for initial data cleaning)
+- Power BI
+- DAX
+- Excel (for initial data cleaning)
 
 ---
 
