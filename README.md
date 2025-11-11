@@ -49,9 +49,17 @@ This project aims to visualise election data through an interactive Power BI das
 ---
 
 ## Dashboard Preview
-![Election Dashboard Preview](assets/dashboard-preview.png)
+**Home Overview**
+![Home Dashboard](assets/election_dashboard_home.png)
 
-*(Click the image to enlarge — or download the .pbix file from the `/reports/` folder.)*
+**Timeline Visualization**
+![Timeline Map](assets/election_dashboard_timeline.png)
+
+**State Analysis**
+![State Results](assets/election_dashboard_state.png)
+
+**Loyalty Analysis**
+![Loyalty Results](assets/election_dashboard_loyalty.png)
 
 ---
 
