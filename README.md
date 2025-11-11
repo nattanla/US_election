@@ -21,7 +21,7 @@ This project aims to visualise election data through an interactive Power BI das
    - Cleaned and standardisesd historical U.S. election data across multiple years
    - Remove duplicate entries and unified inconsistent state/ county names
    - Create a new 'State + Party' field to enable accurate geo-mapping  
-   - Calculated turnout rates and normalized results for fair comparison
+   - Calculated turnout rates and normalised results for fair comparison
 
 2. **Modeling (Power BI):**  
    - Built measures for KPIs such as total voters, party percentages, and year-over-year change
@@ -52,7 +52,7 @@ This project aims to visualise election data through an interactive Power BI das
 **Home Overview**
 ![Home Dashboard](assets/election_dashboard_home.png)
 
-**Timeline Visualization**
+**Timeline Visualisation**
 ![Timeline Map](assets/election_dashboard_timeline.png)
 
 **State Analysis**
@@ -60,11 +60,6 @@ This project aims to visualise election data through an interactive Power BI das
 
 **Loyalty Analysis**
 ![Loyalty Results](assets/election_dashboard_loyalty.png)
-
----
-
-## File Access
-- [Download .pbix file](reports/dashboard.pbix)
 
 ---
 
